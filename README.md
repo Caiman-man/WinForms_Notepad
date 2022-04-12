@@ -1,1 +1,1 @@
-# WinForms_Notepad
+# Текстовый редактор разработанный на WinForms
